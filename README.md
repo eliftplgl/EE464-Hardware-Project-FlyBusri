@@ -3,5 +3,6 @@ EE 464 Hardware Project
 
 ELif Topaloğlu - 
 
-Caner Aydın - \n
+Caner Aydın -
+
 Doruk Yazıcı - 2517225
