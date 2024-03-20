@@ -1,5 +1,5 @@
 # EE 464-Hardware-Project
-EE 464 Hardware Project
+EE464 Hardware Project
 
 ELif Topaloğlu - 
 
