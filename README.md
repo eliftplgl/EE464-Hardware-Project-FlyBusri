@@ -1,7 +1,7 @@
 # EE 464-Hardware-Project
 EE464 Hardware Project
 
-ELif Topaloğlu - 2443984
+Elif Topaloğlu - 2443984
 
 Caner Aydın - 2374528
 
